@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Financial Transaction Analyzer
 
 ## Project overview
@@ -72,3 +73,7 @@ Excel/CSV/JSON Outputs
 - Data quality dashboard
 - Reconciliation engine integration
 - PySpark migration
+=======
+# Financial-Transaction-Analyzer
+Python-based finance analytics and validation pipeline for processing transaction datasets, performing data quality checks, generating exception reports, and exporting analytical outputs.
+>>>>>>> 2d2fa609b7cea1fa69f199cf999cae5e19cc7325
