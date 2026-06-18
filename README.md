@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Financial Transaction Analyzer
 
 ## Project overview
