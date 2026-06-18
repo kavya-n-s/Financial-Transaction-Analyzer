@@ -57,13 +57,13 @@ Transaction summary
 
 ## Sample Workflow
 CSV Input
-     ↓
+     ->
 Data Validation
-     ↓
+     ->
 Analytics
-     ↓
+     ->
 Exception Detection
-     ↓
+     ->
 Excel/CSV/JSON Outputs
 
 ## Future Enhancements
