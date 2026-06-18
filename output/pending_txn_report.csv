@@ -1,0 +1,10 @@
+,transaction_id,date,category,amount,payment_method,status,region,month
+6,7,2026-06-01,Food,3148,UPI,PENDING,India,June
+8,9,2026-06-02,Food,3090,Debit Card,PENDING,UAE,June
+9,10,2026-06-02,Travel,4476,UPI,PENDING,USA,June
+21,22,2026-06-03,Entertainment,1700,UPI,PENDING,India,June
+24,25,2026-06-05,Shopping,3050,Credit Card,PENDING,India,June
+28,29,2026-06-05,Entertainment,910,UPI,PENDING,USA,June
+31,32,2026-06-05,Shopping,3940,UPI,PENDING,USA,June
+56,57,2026-06-12,Food,2838,Credit Card,PENDING,UAE,June
+68,69,2026-06-15,Travel,5467,UPI,PENDING,India,June

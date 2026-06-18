@@ -1,0 +1,13 @@
+INPUT_FILE = 'data/transactions.csv'
+CAT_CSV = 'output/category_summary.csv'
+PAY_METH_CSV = 'output/payment_method_summary.csv'
+JSON_SUMMARY_OUTPUT = 'output/summary.json'
+HIGH_VAL_TXN = 'output/high_value_transactions.csv'
+DEFAULT_THRESHOLD = 2500
+PMA_CSV = 'output/pma.csv'
+DEFAULT_DATE_FORMAT = '%m/%d/%Y'
+FAILED_CSV = 'output/failed_txn_report.csv'
+REGION_CSV = 'output/region_summary.csv'
+DAILY_SPENT_CSV = 'output/daily_spent_summary.csv'
+PENDING_CSV = 'output/pending_txn_report.csv'
+VALIDATION_REPORT = 'output/validation_report.xlsx'

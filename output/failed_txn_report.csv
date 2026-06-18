@@ -1,0 +1,13 @@
+,transaction_id,date,category,amount,payment_method,status,region,month
+3,4,2026-06-01,Utilities,10780,UPI,FAILED,UAE,June
+39,40,2026-06-09,Utilities,4677,UPI,FAILED,India,June
+40,41,2026-06-10,Food,185,Credit Card,FAILED,USA,June
+41,42,2026-06-11,Travel,1309,Credit Card,FAILED,India,June
+42,43,2026-06-11,Food,2331,Credit Card,FAILED,India,June
+43,44,2026-06-11,Travel,5276,Credit Card,FAILED,India,June
+44,45,2026-06-11,Food,4768,UPI,FAILED,USA,June
+57,58,2026-06-13,Entertainment,4827,Debit Card,FAILED,USA,June
+59,60,2026-06-13,Travel,-5213,Credit Card,FAILED,USA,June
+60,61,2026-06-13,Shopping,5147,Debit Card,FAILED,India,June
+66,67,2026-06-14,Shopping,4461,UPI,FAILED,India,June
+67,68,2026-06-14,Food,1500,UPI,FAILED,India,June

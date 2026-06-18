@@ -1,0 +1,41 @@
+,transaction_id,date,category,amount,payment_method,status,region,month
+2,3,2026-06-01,Shopping,4805,Debit Card,SUCCESS,India,June
+3,4,2026-06-01,Utilities,10780,UPI,FAILED,UAE,June
+6,7,2026-06-01,Food,3148,UPI,PENDING,India,June
+8,9,2026-06-02,Food,3090,Debit Card,PENDING,UAE,June
+9,10,2026-06-02,Travel,4476,UPI,PENDING,USA,June
+10,11,2026-06-02,Shopping,3371,UPI,SUCCESS,India,June
+11,12,2026-06-02,Utilities,4445,Net Banking,SUCCESS,India,June
+13,14,2026-06-02,Travel,2834,UPI,SUCCESS,India,June
+14,15,2026-06-02,Food,4176,Net Banking,SUCCESS,India,June
+15,16,2026-06-03,Travel,5496,UPI,SUCCESS,USA,June
+19,20,2026-06-03,Food,5276,Credit Card,,India,June
+23,24,2026-06-04,Travel,3461,Credit Card,SUCCESS,UAE,June
+24,25,2026-06-05,Shopping,3050,Credit Card,PENDING,India,June
+25,26,2026-06-05,Food,3449,Credit Card,SUCCESS,India,June
+26,27,2026-06-05,Shopping,4867,UPI,SUCCESS,UAE,June
+29,30,2026-06-05,Entertainment,4356,UPI,SUCCESS,UAE,June
+30,31,2026-06-05,Shopping,3179,Credit Card,SUCCESS,India,June
+31,32,2026-06-05,Shopping,3940,UPI,PENDING,USA,June
+32,33,2026-06-05,Travel,4688,Credit Card,SUCCESS,UAE,June
+34,35,2026-06-05,Travel,4937,Credit Card,SUCCESS,India,June
+35,36,2026-06-05,Shopping,4005,UPI,SUCCESS,USA,June
+36,37,2026-06-06,Food,4283,UPI,SUCCESS,UAE,June
+37,38,2026-06-07,Travel,5493,UPI,SUCCESS,UAE,June
+39,40,2026-06-09,Utilities,4677,UPI,FAILED,India,June
+43,44,2026-06-11,Travel,5276,Credit Card,FAILED,India,June
+44,45,2026-06-11,Food,4768,UPI,FAILED,USA,June
+45,46,2026-06-11,Travel,5552,Credit Card,SUCCESS,USA,June
+46,47,2026-06-11,Shopping,4355,Debit Card,SUCCESS,India,June
+47,48,2026-06-11,Utilities,3726,Credit Card,SUCCESS,USA,June
+50,51,2026-06-12,Food,3979,Credit Card,SUCCESS,USA,June
+51,52,2026-06-12,Travel,3052,Debit Card,SUCCESS,USA,June
+55,56,2026-06-12,Food,3902,UPI,SUCCESS,India,June
+56,57,2026-06-12,Food,2838,Credit Card,PENDING,UAE,June
+57,58,2026-06-13,Entertainment,4827,Debit Card,FAILED,USA,June
+60,61,2026-06-13,Shopping,5147,Debit Card,FAILED,India,June
+61,62,2026-06-13,Travel,2653,UPI,SUCCESS,India,June
+62,63,2026-06-13,Travel,4328,Credit Card,SUCCESS,India,June
+64,65,2026-06-13,Food,2956,UPI,SUCCESS,India,June
+66,67,2026-06-14,Shopping,4461,UPI,FAILED,India,June
+68,69,2026-06-15,Travel,5467,UPI,PENDING,India,June
